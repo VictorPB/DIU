@@ -38,11 +38,13 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
->>> Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias.
+>>> 
+>>> Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias. Además las personas mayores suelen ser ayudadas por familiares cercanos a ellos lo que también se ve reflejado.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ---- 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Creemos que pueden haber ciertos problemas al reservar si el idioma elegido no es el español ya que el agente externo no diferencia el idioma de la página original. Además las reviews no son muy visibles lo que puede llevar a cierta desconfianza en el usuario. Ambas cosas se muestran en uno de los journey map.
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
