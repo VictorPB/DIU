@@ -38,7 +38,7 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias.
+>>> Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ---- 
