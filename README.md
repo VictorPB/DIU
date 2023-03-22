@@ -38,21 +38,26 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
-
-
+---- 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento: https://github.com/VictorPB/DIU/blob/57a6d75e0bfb2c5cc808d7c5a654f89341c2c8fa/P1/Usability-review-template.xls 
+>>> - Valoración final (numérica): 68 (moderada)
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+   Aunque en líneas generales se pueden completar las acciones deseadas por el usuario y la información que proporciona es suficiente, la página presenta una serie de problemas que se pueden mejorar en gran medida como por ejemplo la visibilidad de la ayuda en línea o el menú principal.
+   
 
+
+![Método UX](img/usabilityReview.png) 1.e Empathy Map
+En esta parte hemos comentado los principales errores que hemos encontrado en la página al contar nuestra experiencia.También hemos añadido imágenes para mostrar los errores comentados. Ya poniendonos en el lugar de otro tipo de personas hemos podido abstraer las principales preocupaciones de los posibles usuarios (apartado user needs) y como se pueden resolver (apartado insights).
 
 ## Paso 2. UX Design  
 
