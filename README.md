@@ -4,6 +4,10 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... )
 Grupo: DIU2._07_Dumbledore.  Curso: 2022/23 
 Updated: 11/1/2023
 
+Miembros
+ Gador Romero Prieto   
+ Victor Perez Barranco
+
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
@@ -14,9 +18,7 @@ Descripción:
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
-Miembros
- Gador Romero Prieto   
- Victor Perez Barranco
+
 
 ----- 
 
@@ -32,13 +34,30 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Conclusión del Competitive Analysis:
+>>>Nos muestra una visión general  sobre la apariencia y funcionalidad de la web, analizando los puntos que consideremos relevantes para nuestro análisis.
+>>>
+>>>
+>>>Características analizadas:
+>>>
+>>>Registro: permita crear una cuenta de usuario con sus datos.  
+>>>Ayuda en línea: muestre ayuda de uso al usuario.  
+>>>FAQ: dispongo de respuestas a las preguntas frecuentres.  
+>>>Datos de Contacto: contacto con personal.  
+>>>Idiomas: posibilidad de cambiar de idioma la información.  
+>>>Reseñas: muestra experiencias y reseñas de usuarios.  
+>>>Rendimiento: fluidez navegando en la web.  
+>>>
+>>>Consideramos que la ayuda en línea es una funcionalidad vital que permite al usuario conocer mejor cómo interactuar con la web.
+>>>
+>>>
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
->>> 
+>>> En España encontramos una pirámide de población que indica el gran porcentaje de personas que no han convivido totalmente con esta era digital y presentan mucha dificultad a la hora de aprender a usar la tecnología, incluso probocando rechazo a usarlas y aprenderlas.
+Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un menor desarrollo tecnológico presente en el día a día, encontramos aquí un colectivo de personas con dificultades con la tecnología que necesitan que se les brinde una experiencia de uso lo más amigable posble.
+>>>
 >>> Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias. Además las personas mayores suelen ser ayudadas por familiares cercanos a ellos lo que también se ve reflejado.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
