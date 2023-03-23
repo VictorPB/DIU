@@ -54,6 +54,7 @@ Logotipo:
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+>>>A continuación explicamos las personas creadas:
 
 >>> En España encontramos una pirámide de población que indica el gran porcentaje de personas que no han convivido totalmente con esta era digital y presentan mucha dificultad a la hora de aprender a usar la tecnología, incluso probocando rechazo a usarlas y aprenderlas.
 Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un menor desarrollo tecnológico presente en el día a día, encontramos aquí un colectivo de personas con dificultades con la tecnología que necesitan que se les brinde una experiencia de uso lo más amigable posble.
@@ -63,6 +64,8 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ---- 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Personas me mediana edad que no están muy familiarizadas con la tecnología presentan muchas dificultades al realizar una reserva, trámite o consulta a través de internet
+>>> 
 >>> Creemos que pueden haber ciertos problemas al reservar si el idioma elegido no es el español ya que el agente externo no diferencia el idioma de la página original. Además las reviews no son muy visibles lo que puede llevar a cierta desconfianza en el usuario. Ambas cosas se muestran en uno de los journey map.
 
 
@@ -78,6 +81,7 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
 
 
 ![Método UX](img/usabilityReview.png) 1.e Empathy Map
+----
 En esta parte hemos comentado los principales errores que hemos encontrado en la página al contar nuestra experiencia.También hemos añadido imágenes para mostrar los errores comentados. Ya poniendonos en el lugar de otro tipo de personas hemos podido abstraer las principales preocupaciones de los posibles usuarios (apartado user needs) y como se pueden resolver (apartado insights).
 
 ## Paso 2. UX Design  
