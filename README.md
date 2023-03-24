@@ -63,9 +63,7 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ---- 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
->>> Personas me mediana edad que no están muy familiarizadas con la tecnología presentan muchas dificultades al realizar una reserva, trámite o consulta a través de internet
->>> 
+>>> Personas me mediana edad que no están muy familiarizadas con la tecnología presentan muchas dificultades al realizar una reserva, trámite o consulta a través de internet. Necesitan que se expongan claras las secciones y que su interacción sea lo más intuitiva posible acompañada de una guía o ayuda para que el usuario no se pierda durante el proceso.>>> 
 >>> Creemos que pueden haber ciertos problemas al reservar si el idioma elegido no es el español ya que el agente externo no diferencia el idioma de la página original. Además las reviews no son muy visibles lo que puede llevar a cierta desconfianza en el usuario. Ambas cosas se muestran en uno de los journey map.
 
 
