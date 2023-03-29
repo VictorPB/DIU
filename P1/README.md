@@ -64,8 +64,8 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
 >>> - Valoración final (numérica): 68 (moderada)
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
    Aunque en líneas generales se pueden completar las acciones deseadas por el usuario y la información que proporciona es bastante buena, la página presenta una serie de problemas que se pueden mejorar en gran medida como por ejemplo la visibilidad de la ayuda en línea o el menú principal.
-   
-   A continuación describimos los puntos fuertes y débiles de la página:
+>>> 
+>>> A continuación describimos los puntos fuertes y débiles de la página:
    -Puntos fuertes
           (Muy importante) 
                Contenido ofrecido
@@ -83,6 +83,8 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
                Elementos poco visibles
                   -> El menú es ocultado por una foto en algunas páginas
                   -> La ayuda online se ubica en una esquina inferior
+   
+   
    
 
 ![Método UX](img/usabilityReview.png) 1.e Empathy Map
