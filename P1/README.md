@@ -63,9 +63,27 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
 >>> - Enlace al documento: https://github.com/VictorPB/DIU/blob/57a6d75e0bfb2c5cc808d7c5a654f89341c2c8fa/P1/Usability-review-template.xls 
 >>> - Valoración final (numérica): 68 (moderada)
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
-   Aunque en líneas generales se pueden completar las acciones deseadas por el usuario y la información que proporciona es suficiente, la página presenta una serie de problemas que se pueden mejorar en gran medida como por ejemplo la visibilidad de la ayuda en línea o el menú principal.
+   Aunque en líneas generales se pueden completar las acciones deseadas por el usuario y la información que proporciona es bastante buena, la página presenta una serie de problemas que se pueden mejorar en gran medida como por ejemplo la visibilidad de la ayuda en línea o el menú principal.
    
-
+   A continuación describimos los puntos fuertes y débiles de la página:
+   -Puntos fuertes
+          (Muy importante) 
+               Contenido ofrecido
+          
+          (Importante)
+               Diseño de la página de inicio: sencillo claro y orientativo
+          
+  
+   -Puntos débiles
+          (Vital en una página de excursiones) 
+               Proceso de reserva externo
+                  -> los datos introducidos se pierden si cancelas
+      
+          (Muy importante)
+               Elementos poco visibles
+                  -> El menú es ocultado por una foto en algunas páginas
+                  -> La ayuda online se ubica en una esquina inferior
+   
 
 ![Método UX](img/usabilityReview.png) 1.e Empathy Map
 ----
