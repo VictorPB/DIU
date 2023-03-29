@@ -66,23 +66,23 @@ Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un meno
    Aunque en líneas generales se pueden completar las acciones deseadas por el usuario y la información que proporciona es bastante buena, la página presenta una serie de problemas que se pueden mejorar en gran medida como por ejemplo la visibilidad de la ayuda en línea o el menú principal.
 >>> 
 >>> A continuación describimos los puntos fuertes y débiles de la página:
-   -Puntos fuertes
-          (Muy importante) 
-               Contenido ofrecido
-          
-          (Importante)
-               Diseño de la página de inicio: sencillo claro y orientativo
-          
-  
-   -Puntos débiles
-          (Vital en una página de excursiones) 
-               Proceso de reserva externo
-                  -> los datos introducidos se pierden si cancelas
-      
-          (Muy importante)
-               Elementos poco visibles
-                  -> El menú es ocultado por una foto en algunas páginas
-                  -> La ayuda online se ubica en una esquina inferior
+>>>   -Puntos fuertes
+>>>          (Muy importante) 
+>>>               Contenido ofrecido
+>>>          
+>>>          (Importante)
+>>>               Diseño de la página de inicio: sencillo claro y orientativo
+>>>          
+>>>  
+>>>   -Puntos débiles
+>>>          (Vital en una página de este tipo) 
+>>>               Proceso de reserva externo
+>>>                  -> los datos introducidos se pierden si cancelas
+>>>      
+>>>          (Muy importante)
+>>>               Elementos poco visibles
+>>>                  -> El menú es ocultado por una foto en algunas páginas
+>>>                  -> La ayuda online se ubica en una esquina inferior
    
    
    
