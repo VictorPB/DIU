@@ -7,6 +7,7 @@
 
 
 ### PROPUESTA DE VALOR
+>>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 * ScopeCanvas
 
 
@@ -27,3 +28,4 @@
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
+
