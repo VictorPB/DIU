@@ -9,7 +9,7 @@ Miembros
  Victor Perez Barranco
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Nombre de nuestro proyecto: S-Planner
 
 Descripción: 
 
