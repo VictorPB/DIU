@@ -7,7 +7,10 @@
 
 
 ### PROPUESTA DE VALOR
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
+>>> Hemos diseñado una página web donde los usuarios pueden compartir sus rutas por granada.
+Estas se catalogarán acorde a algunos filtros como familia, gastronomía, monumental o senderismo.
+Si el usuario ha realizado una ruta pero con algun cambio puede subirla como variante de la anterior.
+Para empezar la página proporcionará unas cuantas rutas por la provincia granadina.
 * ScopeCanvas
 
 
