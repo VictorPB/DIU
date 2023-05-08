@@ -22,8 +22,12 @@ Para empezar la página proporcionará unas cuantas rutas por la provincia grana
 ### TASK ANALYSIS
 
 * User Task Matrix 
-  Compartir experiencia: poner un comentario al finalizar la ruta.
-  Poner puntuación a ruta: valorar entre 0 y 5 la ruta que acaba de finalizar. (La puntuación de cada ruta se ve en las estrellas que tiene cada una)
+*       Compartir experiencia: poner un comentario al finalizar la ruta.
+*       Poner puntuación a ruta: valorar entre 0 y 5 la ruta que acaba de finalizar.
+*       (La puntuación de cada ruta se ve en las estrellas que tiene cada una)
+  
+   
+  
   Modificar ruta actual: añadir o quitar paradas de la ruta
 * User/Task flow
 
