@@ -25,10 +25,8 @@ Para empezar la página proporcionará unas cuantas rutas por la provincia grana
 *       Compartir experiencia: poner un comentario al finalizar la ruta.
 *       Poner puntuación a ruta: valorar entre 0 y 5 la ruta que acaba de finalizar.
 *       (La puntuación de cada ruta se ve en las estrellas que tiene cada una)
+*       Modificar ruta actual: añadir o quitar paradas de la ruta      
   
-   
-  
-  Modificar ruta actual: añadir o quitar paradas de la ruta
 * User/Task flow
 
 
@@ -36,6 +34,10 @@ Para empezar la página proporcionará unas cuantas rutas por la provincia grana
 
 * Sitemap 
 * Labelling 
+  icono de comida: oferta gastronómica
+  icono de familia: ruta familiar
+  icono de monumento: ruta de interés de turismo cultural
+  icono de montaña: ruta más enfocada al senderismo
 
 
 ### Prototipo Lo-FI Wireframe 
@@ -43,4 +45,5 @@ Para empezar la página proporcionará unas cuantas rutas por la provincia grana
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
+Creemos que no hay otra web enfocada al turismo que utilice las rutas de los propios usuarios y creemos que por ello puede tener una buena acogida. En los bocetos nos hemos enfocado más en la búsqueda ya que creemos que es lo diferenciador de nuestra web. Otras pestañas como el inicio de sesión no pensamos que sea necesario un boceto.
 
