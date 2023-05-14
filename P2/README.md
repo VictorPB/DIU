@@ -33,7 +33,7 @@ Para empezar la página proporcionará unas cuantas rutas por la provincia grana
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-* Labelling 
+* Labelling (No estamos seguros de que sea este apartado, por ello lo incluimos aquí y no en el archivo)
   icono de comida: oferta gastronómica
   icono de familia: ruta familiar
   icono de monumento: ruta de interés de turismo cultural
@@ -44,6 +44,5 @@ Para empezar la página proporcionará unas cuantas rutas por la provincia grana
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
-Creemos que no hay otra web enfocada al turismo que utilice las rutas de los propios usuarios y creemos que por ello puede tener una buena acogida. En los bocetos nos hemos enfocado más en la búsqueda ya que creemos que es lo diferenciador de nuestra web. Otras pestañas como el inicio de sesión no pensamos que sea necesario un boceto.
+Creemos que no hay otra web enfocada al turismo que utilice las rutas de los propios usuarios y creemos que por ello puede tener una buena acogida. En los bocetos nos hemos enfocado más en la búsqueda ya que creemos que es lo diferenciador de nuestra web aunque también hemos realizado bocetos de inicio de sesión y de el resto de páginas como inicio.
 
