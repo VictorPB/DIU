@@ -5,6 +5,9 @@
 
 ## Landing Page
 
+## GuideLines
+Selector de idioma: visible en el header y utilizando banderas de países para que sea visual.
+https://www.smashingmagazine.com/2022/05/designing-better-language-selector/
 
 ## Mockup: LAYOUT HI-FI
 
