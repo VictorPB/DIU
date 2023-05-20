@@ -9,23 +9,18 @@ Miembros
  Victor Perez Barranco
 
 Proyecto: 
->>> Nombre de nuestro proyecto: S-Planner
+>>> Nombre de nuestro proyecto: SPlanner
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Es una web donde los propios usuarios pueden crear y añadir rutas para que otros usuarios las hagan. Además cada ruta puede tener variantes. Estas variantes tienen una estructura similiar a la ruta original pero con alguna otra parada. Se pueden buscar rutas a través de la ubicación o a través del inicio y el fin. 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
-
+![Método UX](P3/logotipo.png)
 
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -35,73 +30,53 @@ Logotipo:
 -----
 
 >>> Conclusión del Competitive Analysis:
->>>Nos muestra una visión general  sobre la apariencia y funcionalidad de la web, analizando los puntos que consideremos relevantes para nuestro análisis.
->>>
->>>
->>>Características analizadas:
->>>
->>>Registro: permita crear una cuenta de usuario con sus datos.  
->>>Ayuda en línea: muestre ayuda de uso al usuario.  
->>>FAQ: dispongo de respuestas a las preguntas frecuentres.  
->>>Datos de Contacto: contacto con personal.  
->>>Idiomas: posibilidad de cambiar de idioma la información.  
->>>Reseñas: muestra experiencias y reseñas de usuarios.  
->>>Rendimiento: fluidez navegando en la web.  
->>>
->>>Consideramos que la ayuda en línea es una funcionalidad vital que permite al usuario conocer mejor cómo interactuar con la web.
->>>
+>>>Analizamos 3 webs diferentes relacionadas con el turismo. Una pagina de tablaos flamencos https://alboreaflamenco.com/, una página de free tours https://freetour-granada.com/ y una página de un taller de artesanía https://artesanianazari.es/ 
+>>> Nos centramos en la página de free tours para los siguientes apartados
 >>>
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
->>>A continuación explicamos las personas creadas:
-
->>> En España encontramos una pirámide de población que indica el gran porcentaje de personas que no han convivido totalmente con esta era digital y presentan mucha dificultad a la hora de aprender a usar la tecnología, incluso probocando rechazo a usarlas y aprenderlas.
-Si sumamos el hecho de que España cuenta con muchas zonas rústicas con un menor desarrollo tecnológico presente en el día a día, encontramos aquí un colectivo de personas con dificultades con la tecnología que necesitan que se les brinde una experiencia de uso lo más amigable posble.
+>>>Creamos dos personas que podrían ser usuarios de la página de FreeTour.
+>>>Con la ![primera persona](P1/Persona%20y%20su%20%20User%20Journey%20Map%20A%20.pdf) nos queríamos enfocar en el turista extranjero, un tipo de usuario potencial para este tipo de páginas.
 >>>
->>> Consideramos que uno de los colectivos más importantes que puede visitar esta página son las personas extranjeras al ofrecer tours guiados. Por ello hemos escogido a un extranjero sin nociones de español para crear una de las personas ficticias. Además las personas mayores suelen ser ayudadas por familiares cercanos a ellos lo que también se ve reflejado.
+>>>Con la ![segunda persona](P1/Persona%20%26%20User%20Journey%20Map%20%5BDIU23%5D-Gerardo.pdf) nos enfocamos en personas que no están muy habituadas con el uso del ordenador debido a la edad y al entorno en el que viven.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ---- 
->>> Personas me mediana edad que no están muy familiarizadas con la tecnología presentan muchas dificultades al realizar una reserva, trámite o consulta a través de internet. Necesitan que se expongan claras las secciones y que su interacción sea lo más intuitiva posible acompañada de una guía o ayuda para que el usuario no se pierda durante el proceso.>>> 
->>> Creemos que pueden haber ciertos problemas al reservar si el idioma elegido no es el español ya que el agente externo no diferencia el idioma de la página original. Además las reviews no son muy visibles lo que puede llevar a cierta desconfianza en el usuario. Ambas cosas se muestran en uno de los journey map.
+>>> Ambas experiencias de usuario tienen problemas. Por un lado el turista al no entender el idioma tiene problemas en el proceso de reserva y necesita ayuda externa. Por otro lado Gerardo no tiene muy claro que tiene que hacer en la página ya que no viene claramente indicado.
+
+>>>![Journey Map de Mark](P1/Persona%20y%20su%20%20User%20Journey%20Map%20A%20.pdf)
+>>>![Journey Map de Gerardo](P1/Persona%20%26%20User%20Journey%20Map%20%5BDIU23%5D-Gerardo.pdf)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: https://github.com/VictorPB/DIU/blob/57a6d75e0bfb2c5cc808d7c5a654f89341c2c8fa/P1/Usability-review-template.xls 
->>> - Valoración final (numérica): 68 (moderada)
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-   Aunque en líneas generales se pueden completar las acciones deseadas por el usuario y la información que proporciona es suficiente, la página presenta una serie de problemas que se pueden mejorar en gran medida como por ejemplo la visibilidad de la ayuda en línea o el menú principal.
-   
-
+>>>  La revisión se puede encontrar en el siguiente ![enlace](P1/Usability-review-template.xls) 
+>>>> 
+>>> Tras haber realizado la revisión hemos obtenido una valoración de 68 (moderada) esto es debido a que se pueden realizar las acciones requeridas y la información proporcionada es suficiente pero presente serios problemas. 
+>>> Las principales deficiencias que vemos son:
+>>> Uso de aplicación externa de Reserva 
+>>> Falta de ayuda al usuario
+>>> El menú no se muestra con claridad
 
 ![Método UX](img/usabilityReview.png) 1.e Empathy Map
 ----
-En esta parte hemos comentado los principales errores que hemos encontrado en la página al contar nuestra experiencia.También hemos añadido imágenes para mostrar los errores comentados. Ya poniendonos en el lugar de otro tipo de personas hemos podido abstraer las principales preocupaciones de los posibles usuarios (apartado user needs) y como se pueden resolver (apartado insights).
+En esta parte hemos comentado los principales errores que hemos encontrado en la página al contar nuestra experiencia.Con ayuda de nuestras personas hemos podido abstraer las principales preocupaciones de los posibles usuarios (apartado user needs) y como se pueden resolver (apartado insights). 
+
+![Empathy map](P1/Empathy%20Map.pdf)
 
 ## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
+>>>Hemos recogido tanto nuestras experiencias como las de Mark y Gerardo en la siguiente Malla de información receptora.
+>>>
+>>>![FCG](P2/mallaReceptora.png)
 
+>>> Teniendo en cuenta estas experiencias hemos creado nuestra propuesta para fomentar el turismo en Granada: Splanner. 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+>>>Splanner es una web para compartir con otros usuarios rutas en la provincia Granadina. Los usuarios pueden crear sus propias experiencias o realizar las ya publicadas y posteriormente dejar una reseña. Si una ruta no se adapta completamente a un usuario puede variarla añadiendo o quitando paradas para adaptarla. Tras realizarla puede decidir si publicarla como variante o no. Además existen una serie de filtros para buscar la ruta deseada, gastronómico, senderismo, cultural o familiar. Tiene dos modos de búsqueda, el principal donde el usuario introduce su ubicación o un lugar donde quiera conocer sus r
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
