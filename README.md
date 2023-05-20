@@ -17,8 +17,6 @@ Descripción:
 
 Logotipo: 
 >>> ![logotipo](P3/logo.jpg)
-![Método UX](P3/logotipo.png)
-
 
 ----- 
 
