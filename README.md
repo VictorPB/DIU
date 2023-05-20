@@ -76,34 +76,54 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 
 >>> Teniendo en cuenta estas experiencias hemos creado nuestra propuesta para fomentar el turismo en Granada: Splanner. 
 
->>>Splanner es una web para compartir con otros usuarios rutas en la provincia Granadina. Los usuarios pueden crear sus propias experiencias o realizar las ya publicadas y posteriormente dejar una reseña. Si una ruta no se adapta completamente a un usuario puede variarla añadiendo o quitando paradas para adaptarla. Tras realizarla puede decidir si publicarla como variante o no. Además existen una serie de filtros para buscar la ruta deseada, gastronómico, senderismo, cultural o familiar. Tiene dos modos de búsqueda, el principal donde el usuario introduce su ubicación o un lugar donde quiera conocer sus r
+>>>Splanner es una web para compartir con otros usuarios rutas en la provincia Granadina. Los usuarios pueden crear sus propias experiencias o realizar las ya publicadas y posteriormente dejar una reseña. Si una ruta no se adapta completamente a un usuario puede variarla añadiendo o quitando paradas para adaptarla. Tras realizarla puede decidir si publicarla como variante o no. Además existen una serie de filtros para buscar la ruta deseada, gastronómico, senderismo, cultural o familiar. Tiene dos modos de búsqueda, el principal donde el usuario introduce su ubicación o un lugar donde quiera conocer rutas cercanas y se le muestran ordenadas por mejores valoraciones y el modo personalizado. En este modo el usuario introduce el inicio y el fin de la ruta que desea realizar y se le muestran las posibilidades que coinciden ordenadas también por mejores valoraciones. Si no ha introducido ubicación se le muestran las mejores urtas.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+>>> En esta propuesto hemos resumido las ideas sobre las que nos hemos basado para crear nuestro proyecto. Las principales acciones que puede realizar el usuario están presentes así como nuestros objetivos y propósitos.
+>>> 
+>>> ![ScopeCanvas](P2/Scope%20Canvas.png)
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
+>>> Hemos analizado las posibles interacciones de los distintos usuarios en nuestra página para saber qué acciones son más importantes y por tanto enfocarnos más en ellas.
+>>> 
+>>> ![Task Analysis](P2/MatrizTareasUsuarios.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+>>>En la siguiente imagen se muestra la estructura de nuestra página.
+>>>![Sitemap](P2/Sitemap%20S-Planner.png)
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>>Ya en el labelling hemos explicado la funcionalidad de cada página introducida en el SiteMap
+>>>![Labelling](P2/DIU%20P2%20labeling.pdf)  
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> En este apartado hemos realizado los bocetos de cada página de nuestro proyecto dando una primera idea básica de la estructura de cada una.
+
+>>>Página de identificación
+>>>![identificacion](P2/Boceto%20Indentificaci%C3%B3n.jpg)
+
+>>>Página de inicio
+>>>![inicio](/P2/Boceto-Inicio.jpg)
+
+>>>Buscador Principal
+>>>![buscador](P2/Boceto-Buscador.jpg)
+
+>>>Buscador Personalizado
+>>>![buscador Personalizado](P2/Boceto-Buscador%20Personalizado.jpg)
+
+>>>Mis rutas
+>>>![mis rutas](P2/Boceto-Buscador%20Personalizado.jpg)
+
+>>>Mi cuenta
+>>>![mi cuenta](P2/Boceto-Mi%20Cuenta.jpg)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
