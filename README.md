@@ -138,8 +138,10 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 >>>![Moodboard](P3/Moodboard%20Practica3%20%5BDIU23%5D.jpg)
 
 >>>![Logotipo](P3/logo.jpg)
+>>>
 >>>Con nuestro logotipo queremos dar una impresión de aventura en el mundo rural debido a que nuestras rutas son experiencias para descubrir nuevos sitios. 
 >>> Nuestro logotipo tambíen cuenta con un eslogan: Tú eliges cómo conocer Granada. Queremos trasmitir que nuestra experiencia se adapta a cada uno de los usuarios.
+>>> El logotipo ha sido diseñado con canva y tenemos varios modelos. Con y sin eslogan para ser utilizados en distintos sitios. Por ejemplo el glogo sin eslogan está presente en la Landing Page
 
 
 
@@ -153,22 +155,20 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 >>> Para realizar el layout hemos utilizado seguido dos guidelines.
->>> El ![primero]https://www.smashingmagazine.com/2022/05/designing-better-language-selector/ para la elección de como representar los distintos idiomas de la página. Este aspecto es fundamental para una página relacionada con el turismo. Queremos que se represente de forma clara y sencilla.
->>> El ![segundo]https://ui-patterns.com/patterns/NavigationTabs para el diseño del menú principal. Queremos que el usuario se mueva por la página con facilidad y tenga claro en todo momento como llegar a su opción deseada.
+>>> 
+>>> El ![primero](https://www.smashingmagazine.com/2022/05/designing-better-language-selector/) para la elección de como representar los distintos idiomas de la página. Este aspecto es fundamental para una página relacionada con el turismo. Queremos que se represente de forma clara y sencilla.
+>>> 
+>>> El ![segundo](https://ui-patterns.com/patterns/NavigationTabs) para el diseño del menú principal. Queremos que el usuario se mueva por la página con facilidad y tenga claro en todo momento como llegar a su opción deseada.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 >>> Consiste en acercar nuestro bocetos LOFI creados en la P3 a el diseño web final que tendría el producto. Permite visualizarlo y hacernos una idea muy fiel a la que sería la final de la interfaz y experiencia que tendría el usuario con nuestra web.
 
+Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github](P3/MockUp%20Hi-Fi%20(1).fig) como en nuestro archivo en ![figma] donde se puede simular la interacción con la página(https://www.figma.com/file/ZkfkNyh4QbPmPtUMhsyBDu/MockUp-Hi-Fi?type=design&node-id=0%3A1&t=DIN1W60yJ8dxo3DG-1)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> En este apartado hemos querido mostrar la interacción del usuario en nuestra web. Para ello hemos grabado un vídeo que se puede encontrar ![aqui](P3/Video%20P3.mkv)
 
 
 ## Paso 4. Evaluación 
