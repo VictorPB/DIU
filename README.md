@@ -165,7 +165,7 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 ----
 >>> Consiste en acercar nuestro bocetos LOFI creados en la P3 a el diseño web final que tendría el producto. Permite visualizarlo y hacernos una idea muy fiel a la que sería la final de la interfaz y experiencia que tendría el usuario con nuestra web.
 
-Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github](P3/MockUp%20Hi-Fi%20(1).fig) como en nuestro archivo en ![figma] donde se puede simular la interacción con la página(https://www.figma.com/file/ZkfkNyh4QbPmPtUMhsyBDu/MockUp-Hi-Fi?type=design&node-id=0%3A1&t=DIN1W60yJ8dxo3DG-1)
+Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github](P3/MockUp%20Hi-Fi%20(1).fig) como en nuestro archivo en ![figma](https://www.figma.com/file/ZkfkNyh4QbPmPtUMhsyBDu/MockUp-Hi-Fi?type=design&node-id=0%3A1&t=DIN1W60yJ8dxo3DG-1) donde se puede simular la interacción con la página
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
