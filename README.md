@@ -134,7 +134,13 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 >>> Es un Diseño Visual donde definimos una guía de estilos visuales. Definimos el proyecto y el branding, seleccionando logotipo y mensajes de apoyo. Imágenes y webs de inspiración. Paleta de colores, tipografía e imágenes e iconos.
 >>> Son los primeros pasos sobre el diseño de la web, buscamos obtener la identidad y personalidad que deseamos que tenga la marca.
 >>> Hemos elegido unos colores llamativos para causar impresión. Al mismo tiempo son relajantes para transportar al usuario a la naturaleza y a lo rural con el contraste verde-marrón.
+>>> 
 >>>![Moodboard](P3/Moodboard%20Practica3%20%5BDIU23%5D.jpg)
+
+>>>![Logotipo](P3/logo.jpg)
+>>>Con nuestro logotipo queremos dar una impresión de aventura en el mundo rural debido a que nuestras rutas son experiencias para descubrir nuevos sitios. 
+>>> Nuestro logotipo tambíen cuenta con un eslogan: Tú eliges cómo conocer Granada. Queremos trasmitir que nuestra experiencia se adapta a cada uno de los usuarios.
+
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -146,10 +152,9 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio y uso de Guidelines y Patrones IU. Estos son patrones y consejos de elecciones de diseño para mejorar nuestra web.
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
->>> 
+>>> Para realizar el layout hemos utilizado seguido dos guidelines.
+>>> El ![primero]https://www.smashingmagazine.com/2022/05/designing-better-language-selector/ para la elección de como representar los distintos idiomas de la página. Este aspecto es fundamental para una página relacionada con el turismo. Queremos que se represente de forma clara y sencilla.
+>>> El ![segundo]https://ui-patterns.com/patterns/NavigationTabs para el diseño del menú principal. Queremos que el usuario se mueva por la página con facilidad y tenga claro en todo momento como llegar a su opción deseada.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
