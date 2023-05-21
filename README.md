@@ -131,27 +131,29 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Es un Diseño Visual donde definimos una guía de estilos visuales. Definimos el proyecto y el branding, seleccionando logotipo y mensajes de apoyo. Imágenes y webs de inspiración. Paleta de colores, tipografía e imágenes e iconos.
+>>> Son los primeros pasos sobre el diseño de la web, buscamos obtener la identidad y personalidad que deseamos que tenga la marca.
+>>>![Moodboard](P3/Moodboard Practica3 [DIU23].jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+>>> El Landing Page es un tipo de página promocional, parecida a un boceto, que presenta ya el estilo seleccionado para la web e incluye elemento como Título, elementos gráficos y beneficios de la web.
+>>>![Moodboard](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+>>> Estudio y uso de Guidelines y Patrones IU. Estos son patrones y consejos de elecciones de diseño para mejorar nuestra web.
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Consiste en acercar nuestro bocetos LOFI creados en la P3 a el diseño web final que tendría el producto. Permite visualizarlo y hacernos una idea muy fiel a la que sería la final de la interfaz y experiencia que tendría el usuario con nuestra web.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
