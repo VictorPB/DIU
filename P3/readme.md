@@ -8,7 +8,7 @@ Estratégia: compartir sus rutas por granada y encontrar la más adecuada a sus 
 Logotipo: queremos transmitir el sentimiento de naturaleza y de descubrir lo rural.
 Mensaje de apoyo: Tú eliges cómo conocer Granada.
 Paleta de Colores: hemos escogido esta paleta de marrones, verde y blanco porque creemos que evoca a la naturaleza y al mundo rural. Utilizando distintos marrones simbolizamos la madera y las montañas a la vez que creamos contraste con el verde. El blanco aporta luminosidad al conjunto.
-Tipografía: elegimos 2 tipografías con las que buscamos nuturalidad y claridad en la lectura  junto con un estilo moderno.
+Tipografía: elegimos 2 tipografías con las que buscamos naturalidad y claridad en la lectura  junto con un estilo moderno.
 Imágenes: queremos reflejar los especiales y únicos momentos que disfrutan nuestros usuarios con las rutas que realizan.
 
 
@@ -25,7 +25,7 @@ Estudio y uso de Guidelines y Patrones IU. Estos son patrones y consejos de elec
 
 >>>Hemos usado:
 
-Selector de idioma: visible en el header y utilizando banderas de países para que sea visual.
+Selector de idioma: visible en el header y utilizando banderas de países para que sea visual y no sea necesario entender el idioma por defecto de la página.
 https://www.smashingmagazine.com/2022/05/designing-better-language-selector/
 
 Menú de navegación por botones. El contenido debe estar separado en secciones y acceder a él mediante una estructura de navegación plana que brinde una indicación clara de la ubicación actual.
@@ -39,7 +39,6 @@ Hemos usado Figma para darle a nuestros bocetos una apariencia similar a la fina
 https://www.figma.com/file/ZkfkNyh4QbPmPtUMhsyBDu/MockUp-Hi-Fi?type=design&t=ZtaBd0VPtOnNYfhV-6
 
 ## Documentación: Publicación del Case Study
+Esta práctica ha sido más difícil de realizar debido a que casi no hemos tenido clases presenciales debido a las fiesta. Los dos teníamos muy claro como queríamos enfocar la página por lo que el moodboard fue fácil de realizar. Tuvimos algunos problemas a la hora de utilizar figma para realizar el layout y realizar el prototipo aunque hemos descubierto que Figma tiene muchas opciones para hacer el diseño como la creación de estilos y frames
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
