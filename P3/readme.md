@@ -35,7 +35,8 @@ https://ui-patterns.com/patterns/NavigationTabs
 ## Mockup: LAYOUT HI-FI
 Consiste en acercar nuestro bocetos LOFI creados en la P3 a el diseño web final que tendría el producto. Permite visualizarlo y hacernos una idea muy fiel a la que sería la final de la interfaz y experiencia que tendría el usuario con nuestra web.
 
-Hemos usado Figma para darle a nuestros bocetos una apariencia similar a la final que tendría la web
+Hemos usado Figma para darle a nuestros bocetos una apariencia similar a la final que tendría la web.
+https://www.figma.com/file/ZkfkNyh4QbPmPtUMhsyBDu/MockUp-Hi-Fi?type=design&t=ZtaBd0VPtOnNYfhV-6
 
 ## Documentación: Publicación del Case Study
 
