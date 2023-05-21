@@ -169,7 +169,7 @@ Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github]
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
->>> En este apartado hemos querido mostrar la interacción del usuario en nuestra web. Para ello hemos grabado un vídeo que se puede encontrar ![aqui](P3/Video%20P3.mkv)
+>>> En este apartado hemos querido mostrar la interacción del usuario en nuestra web. Para ello hemos grabado un vídeo que se puede encontrar ![aqui](P3/Video%20P3.mkv) (es necesaria la descarga para su visualizacion)
 
 
 ## Paso 4. Evaluación 
