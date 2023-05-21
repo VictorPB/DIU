@@ -133,13 +133,15 @@ En esta parte hemos comentado los principales errores que hemos encontrado en la
 
 >>> Es un Diseño Visual donde definimos una guía de estilos visuales. Definimos el proyecto y el branding, seleccionando logotipo y mensajes de apoyo. Imágenes y webs de inspiración. Paleta de colores, tipografía e imágenes e iconos.
 >>> Son los primeros pasos sobre el diseño de la web, buscamos obtener la identidad y personalidad que deseamos que tenga la marca.
->>>![Moodboard](P3/Moodboard Practica3 [DIU23].jpg)
+>>> Hemos elegido unos colores llamativos para causar impresión. Al mismo tiempo son relajantes para transportar al usuario a la naturaleza y a lo rural con el contraste verde-marrón.
+>>>![Moodboard](P3/Moodboard%20Practica3%20%5BDIU23%5D.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 >>> El Landing Page es un tipo de página promocional, parecida a un boceto, que presenta ya el estilo seleccionado para la web e incluye elemento como Título, elementos gráficos y beneficios de la web.
+>>> Uno de nuestros colores principales es el verde y lo hemos escogido como fondo del landing Page para llamar la atención a los usuarios
 >>>![Moodboard](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
