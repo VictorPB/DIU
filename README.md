@@ -44,6 +44,7 @@ Logotipo:
 >>> Ambas experiencias de usuario tienen problemas. Por un lado el turista al no entender el idioma tiene problemas en el proceso de reserva y necesita ayuda externa. Por otro lado Gerardo no tiene muy claro que tiene que hacer en la página ya que no viene claramente indicado.
 
 >>>![Journey Map de Mark](P1/Persona%20y%20su%20%20User%20Journey%20Map%20A%20.pdf)
+>>>
 >>>![Journey Map de Gerardo](P1/Persona%20%26%20User%20Journey%20Map%20%5BDIU23%5D-Gerardo.pdf)
 
 
