@@ -176,24 +176,27 @@ Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github]
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
+---- Se nos ha asignado el caso de uso del equipo Chocobom. Su página web llamada la Alborea consiste en un webSite para la reserva de espectáculos de flamenco en Granada. Además de poder realizar la reserva también puedes ver opiniones, imágenes y conocer las distintas experiencias que brindan los espectáculos.
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+---- Su enlace de github es el ![siguiente](https://github.com/marta021/DIU1.10_chocobom/tree/master)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Nuestra muestra está formada por seis personas y todas realizan tanto el test A como el test B.
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1's name  | M / 32   | Profesora   | Básica      | Introvertido | Web       | A / B
+| User2's name  | H / 42   | Organizador | Media       | Timido       | Web        | A / B
+                           | de eventos  |
+| User3's name  | H / 30   | Informático | Avanzada    | Emocional    | web      | A / B
+| User4's name  | M / 56   | Azafata     | Media       | Racional     | Web        | A / B
+| User5's name  | H / 21   | Estudiante  | Avanzada    | Racional     | Web        | A / B
+
+| User6's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | A / B
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
