@@ -186,17 +186,19 @@ Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github]
 
 >>> Nuestra muestra está formada por seis personas y todas realizan tanto el test A como el test B.
  
+>>>User 1: Marta Garcia. Mujer 36 años. Profesora de Primaria. Experiencia Básica en Tics.
+>>>Al ser profesora está trabajando en un lugar alejado de su familia y por ello se siente sola en la ciudad. Su familia viene a Granada a verla y decide probar >>>nuevas ofertas por la provincia.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | M / 32   | Profesora   | Básica      | Introvertido | Web       | A / B
-| User2's name  | H / 42   | Organizador | Media       | Timido       | Web        | A / B
-                           | de eventos  |
-| User3's name  | H / 30   | Informático | Avanzada    | Emocional    | web      | A / B
-| User4's name  | M / 56   | Azafata     | Media       | Racional     | Web        | A / B
-| User5's name  | H / 21   | Estudiante  | Avanzada    | Racional     | Web        | A / B
+>>>User 2: Carlos Sainz. Hombre de 42 años. Organizador de eventos. Experiencia Media.
+Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente al flamenco pero cree que puede ser una oferta interesante para turistas.
 
-| User6's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | A / B
+>>>User 3: Pepe Martí. Hombre de 30 años. Ingeniero Informático. Experiencia Alta en Tics.
+>>>Quiere sorprender a su pareja con una velada de flamenco y gastronomía andaluza. Está ilusionado buscándolo.
+
+>>>User 4: Belén Rodríguez. Mujer de 56 años. Azafata. Experiencia Media en Tics.
+>>>Al ser azafata tiene dos días libres en Granada y organiza con sus compañeros una vista a un tablao flamenco. Tiene miedo de que no le guste la experiencia al >>>ser de México.
+
+>>>User 5: Ramón Sánchez (Real). Hombre de 21 años. Estudiante. Experiencia avanzada en Tics. Está estudiando en Granada y decide buscar una actividad nueva para >>>hacer con sus amigos. Está cansado ya que ha dormido poco por los exámenes.
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
