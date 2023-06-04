@@ -176,9 +176,9 @@ Los hemos diseñado con ayuda de figma y se puede ver tanto en nuestro ![github]
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
----- Se nos ha asignado el caso de uso del equipo Chocobom. Su página web llamada la Alborea consiste en un webSite para la reserva de espectáculos de flamenco en Granada. Además de poder realizar la reserva también puedes ver opiniones, imágenes y conocer las distintas experiencias que brindan los espectáculos.
+>>> Se nos ha asignado el caso de uso del equipo Chocobom. Su página web llamada la Alborea consiste en un webSite para la reserva de espectáculos de flamenco en Granada. Además de poder realizar la reserva también puedes ver opiniones, imágenes y conocer las distintas experiencias que brindan los espectáculos.
 
----- Su enlace de github es el ![siguiente](https://github.com/marta021/DIU1.10_chocobom/tree/master)
+>>> Su enlace de github es el ![siguiente](https://github.com/marta021/DIU1.10_chocobom/tree/master)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -208,10 +208,11 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. En este ![cuestionario](P4/Cuestionario%20SUS%20DIU.xlsx) se pueden ver los resultados de cada una de las personas y su puntuación final.
-
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> 
+>>>Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> 
 >>> Captura de cuestionario SUS para el test B
 >>> ![Cuestionario sus](P4/imagenCuestionarioSUS.png)
 
