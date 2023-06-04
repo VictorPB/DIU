@@ -212,7 +212,8 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
->>> 
+>>> Captura de cuestionario SUS para el test B
+>>> ![Cuestionario sus](P4/imagenCuestionarioSUS.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
