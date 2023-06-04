@@ -200,6 +200,9 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 
 >>>User 5: Ramón Sánchez (Real). Hombre de 21 años. Estudiante. Experiencia avanzada en Tics. Está estudiando en Granada y decide buscar una actividad nueva para >>>hacer con sus amigos. Está cansado ya que ha dormido poco por los exámenes.
 
+>>>User 6: Belén Adarve (Real). Es una escritora nómada que inspira sus historias de variadas épocas cuyo argumento involucra acciones y actividades de la cultura asentada en España. Busca inspiración en diferentes actividades típicas de las regiones. 
+
+
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
