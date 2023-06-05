@@ -221,7 +221,7 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
->>> ![Usability Report](P4/DIU__report_Chocobom.docx.pdf) 
+>>> ![Usability Report](P4/DIU_report_Chocobom.docx.pdf) 
 
 
 >>> Valoración personal 
