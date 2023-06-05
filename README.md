@@ -212,7 +212,8 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 >>>Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
->>> 
+>>> El cuestionario SUS nos permite obtener resultados de experiencia de usabilidad que tendrían diversos tipos de usuarios. Dichos usuarios pueden ser tanto ficticios como reales. Da como resultado una calificación numérica de la experiencia del usuario de gran ayuda para mejorar las partes más flojas de la web.
+
 >>> Captura de cuestionario SUS para el test B
 >>> ![Cuestionario sus](P4/imagenCuestionarioSUS.png)
 
@@ -225,6 +226,7 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 
 
 >>> Valoración personal 
+>>> Analizar la usabilidad de una web con Usability Report permite conocer el nivel de usabilidad que presenta nuestra web a los usuarios, exponiendo sus puntos fuertes y débiles. Consiste en análizar desde el punto de vista de usuarios tanto reales como ficticios aspectos relevantes de usabilidad calificando dichos puntos y obteniendo una puntuación final que refleja las virtudes y flaquezas de usabilidad de la web.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
