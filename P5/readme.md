@@ -33,3 +33,7 @@ La aplicación proporciona un mapa de calor(heatmap), con los puntos que los usu
 ![analisis4](analisisImagen4.png)
 
 Después de analizar las áreas de interés hemos visto que algunas zonas del menú pasan desapercibidas. Son las categorías más a la derecha por lo que pensamos que los usuarios al ver las primeras opciones ya saben que el menú esta situado en esa posición y no analizan el resto de opciones. Otra zona desapercibida es en la última imagen la zona de contacta con nosotros. Toda la atención se centra en el botón de enviar pero los usuarios no miran de que es el formulario.
+
+
+###Conclusiones
+Las áreas de interés se muestran muy claramente y consiguen la atención que se pretendía. De forma general el diseño de la página cumple con su cometido.
