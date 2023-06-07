@@ -18,7 +18,9 @@ Usuarios objetivo:
 - Jesús
 
 ### Informe y Conclusiones
-La aplicación proporciona un mapa de calor(heatmap), con los puntos que los usuarios han retenido su mirada y las Áreas de interés de los usuarioas.
+La aplicación proporciona un mapa de calor(heatmap), con los puntos que los usuarios han retenido su mirada y las Áreas de interés de los usuarios.
+
+
 ![heatmap1](heatMapImagen1.png)
 ![heatmap2](heatMapImagen2.png)
 ![heatmap3](heatMapImagen3.png)
