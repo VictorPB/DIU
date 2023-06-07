@@ -229,10 +229,12 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 >>> Analizar la usabilidad de una web con Usability Report permite conocer el nivel de usabilidad que presenta nuestra web a los usuarios, exponiendo sus puntos fuertes y débiles. Consiste en análizar desde el punto de vista de usuarios tanto reales como ficticios aspectos relevantes de usabilidad calificando dichos puntos y obteniendo una puntuación final que refleja las virtudes y flaquezas de usabilidad de la web.
 
 
->>> ##![Método UX](img/Accesibility.png) Paso 5. Evaluación de Accesibilidad Eye
+## ![Método UX](img/Accesibility.png) Paso 5. Evaluación Eye Tracking
 
+>>> Para analizar las áreas de interés de la página web de nuestros compañeros hemos utilizado la técnica de eye tracking a través de Gaze Recorder.
+>>> Esta técnica nos muestra un mapa de calor de las secciones en las que los usuarios centran su mirada. Permite analizar claramente las áreas de interés que llaman la atención de los usuarios y puntos los cuales pueden pasar más desapercibidos para los usuarios. Estos últimos podrían requerir de un rediseño para clarificar su visionado.
 
->>>
+>>> Tras realizar el análisis, concluimos que las áreas de interés se muestran muy claramente y consiguen la atención que se pretendía. De forma general el diseño de la página cumple con su comentido.
 
 
 ## Conclusión final / Valoración de las prácticas
