@@ -9,13 +9,13 @@ Para realizar el experimento hemos dividido la página principal en 4 imágenes 
 Para los usuarios hemos recabado una muestra de 5 personas. Ambos miembros del equipo también han participado para dotar de una visión experta con la que comparar el resto de usuarios.
 
 Usuarios expertos:
-- Gador
-- Victor
+- Gador Romero
+- Victor Pérez
 
-Usuarios objetivo:
-- Mery
-- Sergio
-- Jesús
+Usuarios objetivo (compañeros del subgrupo):
+- María Párraga
+- Sergio Muñóz
+- Jesús Palomares
 
 ### Informe y Conclusiones
 La aplicación proporciona un mapa de calor(heatmap), con los puntos que los usuarios han retenido su mirada y las Áreas de interés de los usuarios.
@@ -31,3 +31,5 @@ La aplicación proporciona un mapa de calor(heatmap), con los puntos que los usu
 ![analisis2](analisisImagen2.png)
 ![analisis3](analisisImagen3.png)
 ![analisis4](analisisImagen4.png)
+
+Después de analizar las áreas de interés hemos visto que algunas zonas del menú pasan desapercibidas. Son las categorías más a la derecha por lo que pensamos que los usuarios al ver las primeras opciones ya saben que el menú esta situado en esa posición y no analizan el resto de opciones. Otra zona desapercibida es en la última imagen la zona de contacta con nosotros. Toda la atención se centra en el botón de enviar pero los usuarios no miran de que es el formulario.
