@@ -229,21 +229,10 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 >>> Analizar la usabilidad de una web con Usability Report permite conocer el nivel de usabilidad que presenta nuestra web a los usuarios, exponiendo sus puntos fuertes y débiles. Consiste en análizar desde el punto de vista de usuarios tanto reales como ficticios aspectos relevantes de usabilidad calificando dichos puntos y obteniendo una puntuación final que refleja las virtudes y flaquezas de usabilidad de la web.
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+>>> ##![Método UX](img/Accesibility.png) Paso 5. Evaluación de Accesibilidad Eye
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+>>>
 
 
 ## Conclusión final / Valoración de las prácticas
