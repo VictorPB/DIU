@@ -234,7 +234,7 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 >>> Para analizar las áreas de interés de la página web de nuestros compañeros hemos utilizado la técnica de eye tracking a través de Gaze Recorder.
 >>> Esta técnica nos muestra un mapa de calor de las secciones en las que los usuarios centran su mirada. Permite analizar claramente las áreas de interés que llaman la atención de los usuarios y puntos los cuales pueden pasar más desapercibidos para los usuarios. Estos últimos podrían requerir de un rediseño para clarificar su visionado.
 
->>> Tras realizar el análisis, concluimos que las áreas de interés se muestran muy claramente y consiguen la atención que se pretendía. De forma general el diseño de la página cumple con su comentido.
+>>> Tras realizar el ![análisis](P5/readme.md), concluimos que las áreas de interés se muestran muy claramente y consiguen la atención que se pretendía. De forma general el diseño de la página cumple con su comentido.
 
 
 ## Conclusión final / Valoración de las prácticas
