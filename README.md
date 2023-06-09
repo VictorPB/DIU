@@ -239,8 +239,8 @@ Quiere buscar nuevas experiencias para sus eventos. Se siente indiferente frente
 
 ## Conclusión final / Valoración de las prácticas
 
-
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> Esta asignatura es diferente a la mayoría de las que hemos tenido ya que se centra en el usuario y en el diseño de la propia página olvidándonos de como se haría. Por ello pensamos que cuesta un poco más de entender lo que se nos pide en las prácticas, sobretodo en las primeras donde tenemos que crear usuarios, pensar como ellos etc. Aun así las prácticas nos han parecido interesantes aunque nos hemos visto apurados en algunas (poder cambiar cosas después de entregar nos ha ayudado cuando íbamos algo peor de tiempo). Nos han enseñado que detrás del diseño de las páginas web hay mucho más trabajo que no se plasma en los diseños pero han ayudado enn su creación.
 
 
 
